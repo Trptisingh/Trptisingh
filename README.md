@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=500&lines=👋+Hello...Visionaries!;Tripti+Singh." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=600&lines=👋+Hello%2C+Tech+Visionaries!;🚀+I+am+Tripti+Singh.;💻+DevOps+Engineer+%7C+Cloud+Enthusiast;⚙️+Automating+the+Future+of+Infrastructure!" />
 </p>
+
 
 ## 💫 About Me:
 ### DevOps Engineer  
