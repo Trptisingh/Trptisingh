@@ -15,7 +15,7 @@
 ⚙️ Innovating with containerization, orchestration, and AI-driven DevOps solutions.  
 
 ## 🌐 Socials:
-[LinkedIn](#) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-triptisingh/)
 
 ## 💻 Tech Stack:
 <p align="center">
