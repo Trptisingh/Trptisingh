@@ -44,4 +44,3 @@
 
 ## 💡 Favorite Quote:
 *"The only way to do great work is to love what you do." – Steve Jobs*  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Trptisingh&theme=react-dark)
