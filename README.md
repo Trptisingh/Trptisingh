@@ -36,13 +36,12 @@
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
-
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trptisingh&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trptisingh&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trptisingh&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trptisingh&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trptisingh&layout=compact&theme=radical)  
+
 
 ## 💡 Favorite Quote:
 *"The only way to do great work is to love what you do." – Steve Jobs*  
