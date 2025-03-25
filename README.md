@@ -13,9 +13,6 @@
 
 ⚙️ Innovating with containerization, orchestration, and AI-driven DevOps solutions.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-triptisingh/)
-
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/Shell_Script-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -34,6 +31,8 @@
   <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-triptisingh/)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trptisingh&show_icons=true&theme=tokyonight)  
