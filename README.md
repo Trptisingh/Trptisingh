@@ -1,16 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=600&lines=👋+Hello%2C+Tech+Visionaries!;🚀+I+am+Tripti+Singh.;💻+DevOps+Engineer+%7C+Cloud+Enthusiast;+Automating+the+Future+of+Infrastructure!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&width=600&lines=👋+Hello%2C+Tech+Visionaries!;🚀+I+am+Tripti+Singh.;☁️+AWS+DevOps+Engineer+%7C+Cloud+Enthusiast;+Automating+the+Future+of+Infrastructure!" />
 </p>
 
 ## 💫 About Me:
-### DevOps Engineer  
+### AWS DevOps Engineer 
 
 🚀 Architecting scalable, self-healing cloud infrastructure with DevOps excellence.  
-
 🌱 Open-source enthusiast exploring Kubernetes, CNCF projects, and automation at scale.  
-
 🔍 Specializing in CI/CD, IaC, observability, and cloud security for high-performance systems.  
-
 ⚙️ Innovating with containerization, orchestration, and AI-driven DevOps solutions.  
 
 ## 💻 Tech Stack:
