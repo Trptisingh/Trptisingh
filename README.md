@@ -30,6 +30,41 @@
   <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-%230072C6.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-%239C9C9C.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-%23007DBC.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC-%23005C99.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-%230079C1.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  
+  <!-- DevOps & Infra -->
+  <img src="https://img.shields.io/badge/CloudFormation-%23D34E00.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudTrail-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/CodePipeline-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeBuild-%23F29111.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeDeploy-%23F29111.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeCommit-%231F4F93.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- Networking & CDN -->
+  <img src="https://img.shields.io/badge/Route_53-%233B82F6.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Gateway-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- Containers & Orchestration -->
+  <img src="https://img.shields.io/badge/ECS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/EKS-%23326CE5.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- Serverless & Messaging -->
+  <img src="https://img.shields.io/badge/SNS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- Monitoring & Security -->
+  <img src="https://img.shields.io/badge/GuardDuty-%230F0F0F.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secrets_Manager-%23D62549.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ## 🌐 Socials:
