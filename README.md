@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=👋+Hello%2C+Tech+Visionaries!;🚀+I+am+Tripti+Singh;☁️+AWS+DevOps+Engineer+and+Cloud+Enthusiast;⚙️+Automating+Infrastructure+with+DevOps+Excellence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+Tech+Visionaries!;I+am+Tripti+Singh;AWS+DevOps+Engineer;Cloud+Automation+%26+Infrastructure+Expert" />
 </p>
+
 
 
 ## 💫 About Me:
