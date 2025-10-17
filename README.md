@@ -1,52 +1,27 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+Tech+Visionaries!;I+am+Tripti+Singh;AWS+DevOps+%26+Full-Stack+Engineer;Cloud+Automation+%26+Web+Development+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hello+Tech+Visionaries!;I+am+Tripti+Singh;AWS+DevOps+%26+Full-Stack+Engineer" />
 </p>
 
-## 💫 About Me:
+## 💫 About Me
 
-### AWS DevOps & Full-Stack Engineer
-
-🚀 Architecting scalable, self-healing cloud infrastructure and developing full-stack applications with modern web technologies.
-🌱 Open-source enthusiast exploring Kubernetes, CNCF projects, automation, and JavaScript frameworks at scale.
-🔍 Specializing in **CI/CD, IaC, observability, cloud security, REST APIs, and modern web architectures**.
-⚙️ Innovating with **containerization, orchestration, serverless, and AI-driven DevOps + full-stack solutions**.
+* AWS DevOps & Full-Stack Engineer
+* Architect scalable, self-healing cloud infrastructure
+* Develop full-stack web applications using modern frameworks
+* Skilled in CI/CD, IaC, observability, and cloud security
+* Containerization, orchestration, and serverless expertise
+* Open-source enthusiast exploring automation and cloud-native solutions
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <p align="center">
   <!-- Backend / DevOps -->
-  <img src="https://img.shields.io/badge/Shell_Script-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
-
-  <!-- Cloud & Infra -->
-
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-
-  <!-- AWS Services -->
-
-  <img src="https://img.shields.io/badge/EC2-%230072C6.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-%239C9C9C.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-%23007DBC.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-%230079C1.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-%23D34E00.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-  <!-- Networking & CDN -->
-
-  <img src="https://img.shields.io/badge/Route_53-%233B82F6.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/API_Gateway-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFront-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
   <!-- Full-Stack Web -->
 
@@ -63,22 +38,15 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-triptisingh/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/tripti_singh)
+[![Behance](https://img.shields.io/badge/Behance-%230057FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/triptisingh35)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/-triptisingh/)
-
----
-
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trptisingh\&show_icons=true\&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trptisingh\&theme=radical)
 
 ---
 
-## 💡 Favorite Quote:
+## 💡 Favorite Quote
 
 *"The only way to do great work is to love what you do." – Steve Jobs*
 
-
-Do you want me to do that next?
