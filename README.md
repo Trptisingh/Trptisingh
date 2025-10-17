@@ -30,31 +30,31 @@
 
 ---
 
-### To-Do App
+### [To-Do App](https://github.com/Trptisingh/To-Do-App.git)
 📌 Modern To-Do List Web Application with full CRUD functionality without using loops.  
 **Tech:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### Firebase Weather App
+### [Firebase Weather App](https://github.com/Trptisingh/Firebase-Weather-App.git)
 📌 Web app hosted on Firebase showing live weather data using OpenWeatherMap API.  
 **Tech:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
 
-### OpenRouter Chatbot
+### [OpenRouter Chatbot](https://github.com/Trptisingh/OpenRouterChatbot.githttps://github.com/Trptisingh/OpenRouterChatbot.git)
 📌 Smart AI chatbot powered by OpenRouter API with real-time conversational abilities.  
 **Tech:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-### Swift DevOps Integration
+### [Swift DevOps Integration](https://github.com/Trptisingh/Swift_DevOps_Integration.git)
 📌 Implements organization-wide DevOps lifecycle using Ansible, Jenkins, and Git workflows for automation.  
 **Tech:** ![Shell](https://img.shields.io/badge/Shell_Script-12100E?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ---
 
-### Automating Monthly Releases with Kubernetes
+### [Automating Monthly Releases with Kubernetes](https://github.com/Trptisingh/Automating_Monthly_Releases_with_Kubernetes_Integration.git)
 📌 Automates monthly release workflow with Docker, GitHub CI, and Kubernetes for high availability.  
 **Tech:** ![Shell](https://img.shields.io/badge/Shell_Script-12100E?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
