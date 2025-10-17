@@ -20,6 +20,47 @@
 
 ---
 
+## 🚀 Projects
+
+<div align="center">
+
+### Fetching Backend Message
+📌 Real-time communication between frontend and Node.js + Express backend with CORS-enabled fetch requests.  
+**Tech:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### To-Do App
+📌 Modern To-Do List Web Application with full CRUD functionality without using loops.  
+**Tech:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### Firebase Weather App
+📌 Web app hosted on Firebase showing live weather data using OpenWeatherMap API.  
+**Tech:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+---
+
+### OpenRouter Chatbot
+📌 Smart AI chatbot powered by OpenRouter API with real-time conversational abilities.  
+**Tech:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+### Swift DevOps Integration
+📌 Implements organization-wide DevOps lifecycle using Ansible, Jenkins, and Git workflows for automation.  
+**Tech:** ![Shell](https://img.shields.io/badge/Shell_Script-12100E?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+### Automating Monthly Releases with Kubernetes
+📌 Automates monthly release workflow with Docker, GitHub CI, and Kubernetes for high availability.  
+**Tech:** ![Shell](https://img.shields.io/badge/Shell_Script-12100E?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</div>
+
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-triptisingh/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/tripti_singh)
