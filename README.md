@@ -23,6 +23,18 @@
 ## 🚀 Projects
 
 <div align="center">
+Got it. You want it **SHORT, CLEAN, EXACT same style**, nothing extra — just like your Fetching Backend repo description.
+
+Here is your **exact-style Ansible project badge line**, minimal and professional:
+
+---
+
+### [Ansible 3-Tier AWS Deployment](https://github.com/Trptisingh/Ansible-3Tier-Automation.git)
+
+📌 Automated provisioning of a complete 3-tier architecture (Web ➝ App ➝ DB) on AWS EC2 using Ansible roles, playbooks, and inventory-based orchestration.
+**Tech:** ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
 
 ### [Fetching Backend Message](https://github.com/Trptisingh/Fetching-Backend-Message.git)
 📌 Real-time communication between frontend and Node.js + Express backend with CORS-enabled fetch requests.  
