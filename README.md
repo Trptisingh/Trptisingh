@@ -20,15 +20,6 @@
 
 ---
 
-## 🚀 Projects
-
-<div align="center">
-Got it. You want it **SHORT, CLEAN, EXACT same style**, nothing extra — just like your Fetching Backend repo description.
-
-Here is your **exact-style Ansible project badge line**, minimal and professional:
-
----
-
 ### [Ansible 3-Tier AWS Deployment](https://github.com/Trptisingh/Ansible-3Tier-Automation.git)
 
 📌 Automated provisioning of a complete 3-tier architecture (Web ➝ App ➝ DB) on AWS EC2 using Ansible roles, playbooks, and inventory-based orchestration.
