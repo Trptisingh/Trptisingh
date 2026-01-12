@@ -21,6 +21,17 @@
 ---
 ## Projects
 
+### [Python Flask CI/CD Pipeline with Jenkins, Docker & Docker Hub](https://github.com/Trptisingh/End-to-End-CICD-Pipeline.git)
+📌 End-to-end CI/CD pipeline project using Jenkins, Docker, Docker Hub, GitHub Webhooks, and a Python Flask application. Demonstrates automated build, test, containerization, pushing to Docker Hub, and deployment using Docker Compose.
+**Tech:**![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 ### [Dockerized Webapp with Postgres](https://github.com/Trptisingh/Dockerized-Webapp-with-Postgres.git)
 📌 A production-style Docker project demonstrating how modern applications are built using isolated, communicating containers with persistent storage and service networking.
 **Tech:**![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
