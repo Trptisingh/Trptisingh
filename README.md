@@ -21,6 +21,15 @@
 ---
 ## Projects
 
+### [Dockerized-Webapp-with-Postgres] (https://github.com/Trptisingh/Dockerized-Webapp-with-Postgres.git)
+📌 A production-style Docker project demonstrating how modern applications are built using isolated, communicating containers with persistent storage and service networking.
+**Tech:**![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 ### [Ansible 3-Tier AWS Deployment](https://github.com/Trptisingh/Ansible-3Tier-Automation.git)
 
 📌 Automated provisioning of a complete 3-tier architecture (Web ➝ App ➝ DB) on AWS EC2 using Ansible roles, playbooks, and inventory-based orchestration.
