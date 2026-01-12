@@ -21,7 +21,7 @@
 ---
 ## Projects
 
-### [Dockerized-Webapp-with-Postgres](https://github.com/Trptisingh/Dockerized-Webapp-with-Postgres.git)
+### [Dockerized Webapp with Postgres](https://github.com/Trptisingh/Dockerized-Webapp-with-Postgres.git)
 📌 A production-style Docker project demonstrating how modern applications are built using isolated, communicating containers with persistent storage and service networking.
 **Tech:**![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
